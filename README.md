@@ -31,8 +31,8 @@ In addition to the Jupyter Notebooks, Tableau is used for further data explorati
 ## Files
 The "Files" folder contains the following datasets:
 - Original dataset: The raw dataset obtained from Kaggle.
-- Clean dataset: The dataset after undergoing data cleaning and wrangling.
-- Test dataset: This dataset includes a column with the predictions of Logistic Regression - SMOTE model.
+- Clean dataset: The dataset after undergoing data cleaning and wrangling (clean_data_churn.csv).
+- Test dataset: This dataset includes a column with the predictions of Logistic Regression - SMOTE model (test_data_churn).
 
 ## Technologies Used
 - Jupyter Notebook
