@@ -7,7 +7,7 @@ Created by Albert Lleida, May 2023.
 ## Table of Contents
 - [Introduction](#introduction)
 - [Overview](#overview)
-- [Kernel 1: Predicting Churn Rate - Logistic Regression, Decision Tree, and Random Forest Classifier-SMOTE.ipynb](#kernel-1-predicting-churn-rate---logistic-regression-decision-tree-and-random-forest-classifier-smoteipynb)
+- [Kernel 1: Predicting Churn Rate - Logistic Regression, Decision Tree, and Random Forest Classifier and Logistic Regression (SMOTE).ipynb](#kernel-1-predicting-churn-rate---logistic-regression-decision-tree-and-random-forest-classifier-smoteipynb)
 - [Kernel 2: Predicting Churn Rate - Customer Profiles & Exploratory Data Analysis.ipynb](#kernel-2-predicting-churn-rate---customer-profiles--exploratory-data-analysisipynb)
 - [Tableau Data Exploration](#tableau-data-exploration)
 - [Files](#files)
